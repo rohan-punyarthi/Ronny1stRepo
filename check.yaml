@@ -1,0 +1,35 @@
+#comment
+students:
+  student1:
+    name: Rohan Punyarthi
+    age: 37
+    passed: true
+    skills:  #List of skills
+      - HTML
+      - CSS
+      - JavaScript
+    subjects:  #List of subjects
+      - Math
+      - Science
+      - History
+    marks:  #Dictionary of marks
+      Math: 95
+      Science: 88
+      History: 76
+
+  student2:
+    name: Prachi Punyarthi
+    age: 37
+    passed: true
+    skills:  #List of skills
+      - HTML
+      - CSS
+      - JavaScript
+    subjects:  #List of subjects
+      - Math
+      - Science
+      - History
+    marks:  #Dictionary of marks
+      Math: 85
+      Science: 89
+      History: 84
